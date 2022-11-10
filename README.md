@@ -49,23 +49,23 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=car-price-prediction&show_icons=true&theme=great-gatsby" >
-
-
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=weather-app&show_icons=true&theme=great-gatsby" >
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Movie-rating&show_icons=true&theme=great-gatsby" >
 
 
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=weather-app&show_icons=true&theme=great-gatsby" >
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
+
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=avinash201199&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
   
 </div>
 
@@ -76,12 +76,10 @@
 <p>
  
  
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/quora/quora-ar21.svg"></code>
+  <code><img width="15%" src="https://img.shields.io/badge/-cplusplus-E4405F?style=flat&logo=cplusplus&logoColor=white"></code>
+ <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlify/netlify-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
