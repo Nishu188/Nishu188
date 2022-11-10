@@ -86,15 +86,8 @@
  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="15%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+   
  
  
  -----
@@ -107,15 +100,15 @@
 
 <div align="center">
   
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=avinash201199&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Nishu188&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
  </div>
  
  
-<img align="left" alt="Avinash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=avinash201199&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinash201199&layout=compact&theme=dark" width="46%" />
+<img align="left" alt="Nishu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishu188&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishu188&layout=compact&theme=dark" width="46%" />
 <br>
-<img src="https://activity-graph.herokuapp.com/graph?username=avinash201199&theme=xcode">
+<img src="https://activity-graph.herokuapp.com/graph?username=Nishu188&theme=xcode">
 
 
 
