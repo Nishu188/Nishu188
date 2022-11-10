@@ -49,12 +49,12 @@
 </div>
 <div  align="center">
  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Avinash-Singh&show_icons=true&theme=great-gatsby" > 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Nishu188&show_icons=true&theme=great-gatsby" > 
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Movie-rating&show_icons=true&theme=great-gatsby" >
 
 
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=weather-app&show_icons=true&theme=great-gatsby" >
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=guessing-game&show_icons=true&theme=great-gatsby" >
 
 
 
