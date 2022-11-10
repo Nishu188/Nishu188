@@ -59,13 +59,13 @@
 
 
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=To-Do-List&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Programming-&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=MemeGenerator&show_icons=true&theme=great-gatsby"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=AI-chatbot&show_icons=true&theme=great-gatsby"> 
   
 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=Fidget-spinner&show_icons=true&theme=great-gatsby">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=TFF&show_icons=true&theme=great-gatsby">
   
 </div>
 
