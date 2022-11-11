@@ -44,7 +44,7 @@
 
 
 
-<h1 align="center">Projects</h1>
+<!-- <h1 align="center">Projects</h1>
 
 </div>
 <div  align="center">
@@ -68,7 +68,7 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nishu188&repo=TFF&show_icons=true&theme=great-gatsby">
   
 </div>
-
+ -->
 
 
 ### Languages and Tools
